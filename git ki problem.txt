@@ -1,0 +1,20 @@
+git clone "Adderess of git repository";
+
+after that 
+
+git remote -v
+if we show error -> fatal: not a git repository (or any of the parent   directories): .git
+that means -> aapki repository is directory me nahi hai.
+              aap us directory me jao aur fir command ko insert karo.
+
+
+git remote -v
+origin  https://github.com/sameer51kadyan/sameer-ki-php.git (fetch)
+origin  https://github.com/sameer51kadyan/sameer-ki-php.git (push)
+
+after that 
+
+git add .
+git status
+
+                             
